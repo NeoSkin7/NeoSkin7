@@ -1,9 +1,9 @@
-- 👋 Hi, I’m [@NeoSkin7](github.com/NeoSkin7).
-- 👀 I’m interested in coding, teaching and STEM.
-- 💞️ I’m looking to collaborate on other science projects that fall into my areas of expertise.
-- 📫 You can reach me via the contact info or social profiles listed on my website, [neoski.uk](https://neoski.uk).
+# Neo Skinner ([@NeoSkin7](github.com/NeoSkin7))
 
-<!---
-NeoSkin7/NeoSkin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[🔗neoski.uk](https://neoski.uk)
+
+[📨thatguy@neoski.uk](mailto:thatguy@neoski.uk)
+
+&nbsp;
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NeoSkin7&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=NeoSkin7&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark) &nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NeoSkin7&layout=compact&hide_title=true&langs_count=8&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=NeoSkin7&layout=compact&hide_title=true&langs_count=10&disable_animations=true&theme=github_dark)
